@@ -1,0 +1,9 @@
+models/
+*.hdf5
+Data.zip
+*.csv
+*.pickle
+.ipynb_checkpoints
+newv1.ipynb
+r2py.ipynb
+v2.ipynb
