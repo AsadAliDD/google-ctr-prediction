@@ -111,6 +111,18 @@ False Positives | 1.8%
 
 
 
+## Dependencies
+
+* Pandas
+* Numpy
+* Transformers
+* XGBoost
+* Nltk
+* Pytorch
+* Sickit-Learn
+
+
+
 
 
 
