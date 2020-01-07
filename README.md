@@ -1,5 +1,7 @@
 # SleepBot
 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/codejones/sleepare_DS/graphs/commit-activity) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
 SleepBot is a **Click Prediction Bot** which uses the data from google search console to predict the *Net Clicks* of Keyword for a given date. 
 
 
