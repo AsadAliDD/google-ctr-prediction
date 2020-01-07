@@ -55,7 +55,7 @@ df_out=df[outliers.any(axis=1)]
 
 #### Confussion Matrix 
 
-![Confussion Matrix]("https://github.com/codejones/sleepare_DS/blob/master/graphs/conf_level1.png")
+![Level 1 Confussion Matrix]("graphs/conf_level1.png?raw=true")
 
 #### Feature Importance
 
