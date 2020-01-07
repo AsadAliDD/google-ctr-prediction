@@ -55,9 +55,11 @@ df_out=df[outliers.any(axis=1)]
 
 #### Confussion Matrix 
 
-![Level 1 Confussion Matrix]("graphs/conf_level1.png?raw=true")
+![Level 1 Confussion Matrix](graphs/conf_level1.png)
 
 #### Feature Importance
+
+![Level 1 Feature Importances](graphs/feature_imp_level1.png)
 
 
 ### Level 2 Model
@@ -66,8 +68,11 @@ df_out=df[outliers.any(axis=1)]
 
 #### Confussion Matrix 
 
+![Level 2 Confussion Matrix](graphs/conf_level2.png)
 
 #### Feature Importance
+
+![Level 2 Feature Importances](graphs/feature_imp_level2.png)
 
 
 ### Level 3 Model
@@ -80,6 +85,8 @@ df_out=df[outliers.any(axis=1)]
 The data after 2019-10-10 is used for testing. 
 
 #### Combined Confussion Matrix of Level 1 and Level 2 Model
+
+![Combined Confussion Matrix](graphs/conf_combined.png)
 
 
 #### Performance
@@ -96,6 +103,15 @@ False Positives | 1.8%
 
 
 #### Model Comparison 
+
+
+![Metrics Comparison](graphs/combined_metrics_without_wmd.png)
+
+![Metrics New](graphs/combined_metrics_new.png)
+
+
+
+
 
 
 
